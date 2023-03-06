@@ -1,2 +1,2 @@
-# Reposit-rio
+# Repositório
 Descrição do repositório
